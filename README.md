@@ -3,6 +3,8 @@ Website from the end of 2017
 
 active link to website: http://severina.gamanm.ru/
 
+(https://fraugaman.github.io/fur-salon-Severina/)
+
 Here used:
 - JS(ES5),
 - LESS,
